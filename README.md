@@ -27,3 +27,7 @@ sudo apt-get install -y python3-pip bluetooth bluez libbluetooth-dev
 ### Instalar bibliotecas Python
 pip3 install RPi.GPIO nfcpy bluez pyserial 
 pip3 install adafruit-blinka adafruit-circuitpython-ssd1306
+
+
+<!-- stargazers -->
+<!-- stargazers -->
