@@ -5,10 +5,17 @@ Flipper Zero usando uma Raspberry Pi
 ## Próximos Passos
 Para tornar o projeto funcional:
 
-## Instalar dependências
+<div>
+  
+Instalar dependências
+
 Configurar módulos de hardware
+
 Testar cada função separadamente
+
 Adicionar mais protocolos de comunicação
+
+</div>
 
 ## Instalação de Dependências
 
