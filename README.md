@@ -11,7 +11,7 @@ Testar cada função separadamente
 Adicionar mais protocolos de comunicação
 
 ## Instalação de Dependências
-bashCopy# Atualizar repositórios
+
 sudo apt update
 
 ## Instalar dependências do sistema
